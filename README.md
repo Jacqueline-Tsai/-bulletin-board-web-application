@@ -13,6 +13,6 @@ Functionalities:\
 &emsp;&emsp;|- Attach a file in any format\
 &emsp;&emsp;|- write using BBCode\
 &emsp;|- Edit a post you posted\
-&emsp;|- Delete a post you posted\
+&emsp;|- Delete a post you posted
 
 It is well protected from serveral attacks: SQL injection, XSS, path traversal, Webshell, command injection and CSRF attacks.
