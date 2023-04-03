@@ -15,4 +15,4 @@ Functionalities:
     |- Edit a post you posted
     |- Delete a post you posted
 
-I made it well protected from SQL injection, XSS, path traversal, Webshell, command injection and CSRF attacks.
+It is well protected from serveral attacks: SQL injection, XSS, path traversal, Webshell, command injection and CSRF attacks.
