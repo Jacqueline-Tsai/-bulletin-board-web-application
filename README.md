@@ -1,5 +1,6 @@
-# Web-Security-Midterm-Project
-This is a bulletin board website built using PHP and Apache.
+# Bulletin board
+This is a bulletin board web application built using PHP and Apache.
+It is well protected from serveral attacks: SQL injection, XSS, path traversal, Webshell, command injection and CSRF attacks.
 
 Functionalities:\
 ├── Sign in / Sign up\
@@ -15,4 +16,3 @@ Functionalities:\
   ├── Edit a post you posted\
   └── Delete a post you posted
 
-It is well protected from serveral attacks: SQL injection, XSS, path traversal, Webshell, command injection and CSRF attacks.
